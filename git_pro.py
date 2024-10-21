@@ -1,2 +1,6 @@
 def hello():
-    return
+<<<<<<< HEAD
+    return "Hello World!"
+=======
+    return "Hello dev!"
+>>>>>>> dev
